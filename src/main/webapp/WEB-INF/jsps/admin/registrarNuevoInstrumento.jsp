@@ -5,8 +5,8 @@ pageEncoding="UTF-8"%>
   <head>
     <meta charset="UTF-8" />
     <title>Registrar Instrumento</title>
-    <link rel="stylesheet" href="assets/registrar.css" />
-    <link rel="stylesheet" href="../assets/menu.css" />
+    <link rel="stylesheet" href="../../assets/registrar.css" />
+    <link rel="stylesheet" href="../../assets/menu.css" />
   </head>
   <body>
     <jsp:include page="menu.jsp"></jsp:include>

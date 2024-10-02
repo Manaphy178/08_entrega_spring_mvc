@@ -5,8 +5,8 @@ uri="http://java.sun.com/jsp/jstl/core"%> <%@ page import="java.util.*"%>
 <html>
   <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="../assets/portada.css" />
-    <link rel="stylesheet" href="../assets/menu.css" />
+    <link rel="stylesheet" href="../../assets/portada.css" />
+    <link rel="stylesheet" href="../../assets/menu.css" />
     <title>Portada</title>
   </head>
   <body>
